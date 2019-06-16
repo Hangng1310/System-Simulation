@@ -1,4 +1,4 @@
-# System-Simulation : Upload source code + documents for  System Simulation class. 
+# System-Simulation :  Source code + documents for  System Simulation subject. 
 
 - Problem statement : Analysis the chance of admission of a student when apply for a master program.
  
